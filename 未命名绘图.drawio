@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T09:06:06.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Bn_DFS_uX8EVRAVXkx-S" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T09:17:24.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="XW-GBMmihmgFEpC_6Atq" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -119,6 +119,40 @@
         </mxCell>
         <mxCell id="uvhWLs1eHOicc7g54-bh-9" value="计算OMC性能指标(扬钧)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="617" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvhWLs1eHOicc7g54-bh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="809.5294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-19" value="统一采集平台&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="790" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvhWLs1eHOicc7g54-bh-20" target="uvhWLs1eHOicc7g54-bh-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="810" />
+              <mxPoint x="790" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-20" value="O域大数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="632" y="790" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-21" value="集客门户&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvhWLs1eHOicc7g54-bh-20" target="uvhWLs1eHOicc7g54-bh-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="810" />
+              <mxPoint x="790" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvhWLs1eHOicc7g54-bh-22" value="物联网智能管理系统 " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="822" y="830" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
